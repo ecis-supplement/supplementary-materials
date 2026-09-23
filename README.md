@@ -12,9 +12,9 @@ Open the downloaded workbook in Microsoft Excel to view its seven worksheets, in
 | --- | --- |
 | `Concept Matrix` | The 74 included publications, with publication year, title, source citation, DOI and the tension themes and response categories identified in each publication. |
 | `Codebook_Tension` | Definition and identification criteria for tension episodes; the 22 first-order concepts, their definitions, second-order themes, aggregate dimensions, classification boundaries and record counts. |
-| `Tensions_Data_Structure_Example` | An illustrative four-layer tension data structure, from episodes through first-order concepts and second-order themes to aggregate dimensions. |
+| `Tensions_Data_Structure_Example` | An illustrative tension data structure adapted from Gioia et al. (2013), with an additional episode layer linking coding episodes to first-order concepts, second-order themes and aggregate dimensions. |
 | `Codebook_Response` | Definition and identification criteria for response episodes; the 17 first-order concepts, their definitions, second-order categories, aggregate orientations, classification boundaries and record counts. |
-| `Response_Data_Structure_Example` | An illustrative four-layer response data structure, from episodes through first-order concepts and second-order categories to aggregate orientations. |
+| `Response_Data_Structure_Example` | An illustrative response data structure adapted from Gioia et al. (2013), with an additional episode layer linking coding episodes to first-order concepts, second-order categories and aggregate orientations. |
 | `Tensions_Coding_Evidences` | All 679 tension episodes in this supplement, with source citations, first-order codes, second-order themes, aggregate dimensions and classification rationales. |
 | `Response_Coding_Evidences` | All 700 response episodes, with source citations, first-order codes, second-order categories, aggregate orientations and classification rationales. |
 
