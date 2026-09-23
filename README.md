@@ -4,7 +4,7 @@ This repository provides the concept matrix and accompanying coding documentatio
 
 ## Workbook
 
-**[Download Supplementary Coding Evidence.xlsx](Supplementary%20Coding%20Evidence.xlsx)**
+**[Download Supplementary Coding Evidence.xlsx](https://github.com/ecis-supplement/supplementary-materials/releases/tag/v1.0.0)**
 
 Open the downloaded workbook in Microsoft Excel to view its seven worksheets, including the embedded data-structure figures.
 
